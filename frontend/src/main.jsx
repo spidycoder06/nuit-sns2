@@ -934,6 +934,7 @@ export default function App() {
                 <span>
                   On macOS, set Control Center → Mic Mode to Standard and Audio MIDI Setup to 48,000 Hz so near-ultrasound frequencies reach the browser.
                 </span>
+                
               </div> */}
             </section>
           </div>
